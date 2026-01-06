@@ -1,6 +1,7 @@
 # Manual-Testing-of-Login-Registration-Module
 📌 Project Title
 Manual Testing of Login & Registration Module
+
 📝 Project Description
 This project demonstrates manual software testing skills applied to a sample Login and Registration module.
 It includes requirement analysis, test planning, test case design, test execution, defect reporting, and final test summary report.
